@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fingrid is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fingrid.fi/
+Fingrid is Finland’s national electricity transmission system operator, responsible for ensuring a reliable and secure electricity supply across the country. It plans, builds, operates and maintains the high‑voltage transmission grid, balancing supply and demand, and facilitates the integration of renewable energy sources. Fingrid also provides market participants with data and services related to grid operations, system balancing, and electricity market information, supporting the transition to a sustainable energy future.
+
+**Areas:** Company · Energy · Electricity · Transmission · Finland
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fingrid.fi/)
+- [Documentation](https://developers.fingrid.fi/)
+- [Privacy policy](https://www.fingrid.fi/en/privacy-statement/)
+- [GitHub](https://github.com/Fingrid)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fingrid/](https://apis.io/providers/fingrid/).
